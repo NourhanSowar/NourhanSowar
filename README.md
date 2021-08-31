@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 I'm senior software engineering student, ambitious Engineer. 
 Specialized in software especially Computer vision, AI, and Deep Learning, Image processing, Communication Systems, Robotics, IoT, and embedded systems.
 
-Email: eng-nourhan.sowar1722@alexu.edu.eg
-Linkedin Profile :https://www.linkedin.com/in/norhan-swar/
-Kaggle Profile :https://www.kaggle.com/nourhansowar
+*Email*: eng-nourhan.sowar1722@alexu.edu.eg
+
+*Linkedin Profile*:https://www.linkedin.com/in/norhan-swar/
+
+*Kaggle Profile*:https://www.kaggle.com/nourhansowar
