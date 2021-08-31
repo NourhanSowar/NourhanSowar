@@ -23,3 +23,5 @@ Specialized in software especially Computer vision, AI, and Deep Learning, Image
 *Linkedin Profile*:https://www.linkedin.com/in/norhan-swar/
 
 *Kaggle Profile*:https://www.kaggle.com/nourhansowar
+
+
