@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,8 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 I'm senior software engineering student, ambitious Engineer. 
 Specialized in software especially Computer vision, AI, and Deep Learning, Image processing, Communication Systems, Robotics, IoT, and embedded systems.
+
+-Passionate and Skilled in Data Science & Data Analysis ( Data preprocessing-Data Augmentation-Feature Extraction-Data Visualization- SQL Fundamentals)
+-Strong knowledge and experience in CNN-supervised Learning-unsupervised learning-NLP-Transfer Learning.
+- Skilled in Tensorflow-scikit learn-Numpy- pandas- matplotlip-spacy-seaborn-OpenCV).
+-Experienced at IoT (Cloud- Database-connected devices).
+-Strong background in Algorithms and data structure (C/C++, Python, MATLAB).
 
 
 
@@ -46,9 +53,6 @@ Specialized in software especially Computer vision, AI, and Deep Learning, Image
 *Linkedin Profile*:https://www.linkedin.com/in/norhan-swar/
 
 *Kaggle Profile*:https://www.kaggle.com/nourhansowar
-
-https://github-readme-stats.vercel.app/api?username={NourhanSowar}
-https://github-readme-stats.vercel.app/api/top-langs/?username={NorhanSwar}
 
 
 
