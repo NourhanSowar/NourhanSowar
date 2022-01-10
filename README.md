@@ -2,14 +2,14 @@
 <h3 align="center">Junior Software Engineer, Specialized in software & Robotics, Skilled in Data Science, Machine Learning, Deep Learning,and Computer Vision </h3>
 
 
--Passionate and Skilled in Data Science & Data Analysis ( Data preprocessing-Data Augmentation-Feature Extraction-Data Visualization- SQL Fundamentals)
--Strong knowledge and experience in CNN-supervised Learning-unsupervised learning-NLP-Transfer Learning.
+- Passionate and Skilled in Data Science & Data Analysis ( Data preprocessing-Data Augmentation-Feature Extraction-Data Visualization- SQL Fundamentals)
+- Strong knowledge and experience in CNN-supervised Learning-unsupervised learning-NLP-Transfer Learning.
 - Skilled in Tensorflow-scikit learn-Numpy- pandas- matplotlip-spacy-seaborn-OpenCV).
--Experienced at IoT (Cloud- Database-connected devices).
--Strong background in Algorithms and data structure (C/C++, Python, MATLAB).
--Dealt with NVIDIA Jetson Nano- Raspberry Pi 3- Linux OS- ROS.
--Dealt with communication system (ubnt Access point- Tp-link Station- IP Cameras).
--Participated in Robotics Competitions internationally(UGVC-ERC-Metal Monsters).
+- Experienced at IoT (Cloud- Database-connected devices).
+- Strong background in Algorithms and data structure (C/C++, Python, MATLAB).
+- Dealt with NVIDIA Jetson Nano- Raspberry Pi 3- Linux OS- ROS.
+- Dealt with communication system (ubnt Access point- Tp-link Station- IP Cameras).
+- Participated in Robotics Competitions internationally(UGVC-ERC-Metal Monsters).
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourhansowar&label=Profile%20views&color=0e75b6&style=flat" alt="nourhansowar" /> </p>
