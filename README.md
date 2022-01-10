@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Norhan Swar</h1>
-<h3 align="center">Junior Software Engineer, Specialized in software & Robotics, Skilled in Data Science, Machine Learning, Deep Learning,and Computer Vision</h3>
+<h1 align="center">Hi 👋, I'm Norhan Swar Data Scientist</h1>
+<h3 align="center">Junior Software Engineer, Specialized in software & Robotics, Skilled in Data Science, Machine Learning, Deep Learning,and Computer Vision </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourhansowar&label=Profile%20views&color=0e75b6&style=flat" alt="nourhansowar" /> </p>
 
