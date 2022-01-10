@@ -19,6 +19,10 @@ I'm senior software engineering student, ambitious Engineer.
 Specialized in software especially Computer vision, AI, and Deep Learning, Image processing, Communication Systems, Robotics, IoT, and embedded systems.
 
 
+
+## My Skills :
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+
 *Email*: eng-nourhan.sowar1722@alexu.edu.eg
 
 *Linkedin Profile*:https://www.linkedin.com/in/norhan-swar/
