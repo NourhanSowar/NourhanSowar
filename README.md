@@ -39,11 +39,15 @@ Specialized in software especially Computer vision, AI, and Deep Learning, Image
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+## Contact Me : 
+
 *Email*: eng-nourhan.sowar1722@alexu.edu.eg
 
 *Linkedin Profile*:https://www.linkedin.com/in/norhan-swar/
 
 *Kaggle Profile*:https://www.kaggle.com/nourhansowar
+
+https://github-readme-stats.vercel.app/api?username={NourhanSowar}
 
 
 
