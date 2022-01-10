@@ -48,6 +48,8 @@ Specialized in software especially Computer vision, AI, and Deep Learning, Image
 *Kaggle Profile*:https://www.kaggle.com/nourhansowar
 
 https://github-readme-stats.vercel.app/api?username={NourhanSowar}
+https://github-readme-stats.vercel.app/api/top-langs/?username={Norhan Swar}
+
 
 
 
