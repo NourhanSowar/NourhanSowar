@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **eng-nourhan.sowar1722@alexu.edu.eg**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12PFg7QSzy1SytKx4jCCTimB-UyvBswDY/view?usp=sharing](https://drive.google.com/file/d/12PFg7QSzy1SytKx4jCCTimB-UyvBswDY/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BeBn2byRg5IadirGu5E5olJyP1GT6gWE/view?usp=sharing](https://drive.google.com/file/d/12PFg7QSzy1SytKx4jCCTimB-UyvBswDY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
