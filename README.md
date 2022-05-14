@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Norhan Swar Data Scientist</h1>
-<h3 align="center">Junior Software Engineer, Specialized in software & Robotics, Skilled in Data Science, Machine Learning, Deep Learning,and Computer Vision </h3>
+<h3 align="center"> FRESH GRADUATE WITH A WIDE VARIETY OF TECHNICAL SKILLS, EXPERIENCED WITH MACHINE LEARNING AND COMPUTER VISION. LOOKING FORWARD TO ADVANCING MY ANALYTICAL SKILLS IN A DATA SCIENCE ROLE.
+ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourhansowar&label=Profile%20views&color=0e75b6&style=flat" alt="nourhansowar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nourhansowar" alt="nourhansowar" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science Internship Project and Computer Vision Graduation Project**
-
-- 🌱 I’m currently learning **Data Science- Data Engineering**
-
 - 📫 How to reach me **eng-nourhan.sowar1722@alexu.edu.eg**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BeBn2byRg5IadirGu5E5olJyP1GT6gWE/view?usp=sharing](https://drive.google.com/file/d/1BeBn2byRg5IadirGu5E5olJyP1GT6gWE/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BeBn2byRg5IadirGu5E5olJyP1GT6gWE/view?usp=sharing](https://drive.google.com/drive/folders/13cPD4Nin-_weJsGHZsyc-GPpOwiBFfJc?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
