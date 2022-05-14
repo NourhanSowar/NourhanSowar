@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Norhan Swar Data Scientist</h1>
-<h3 align="center"> FRESH GRADUATE WITH A WIDE VARIETY OF TECHNICAL SKILLS, EXPERIENCED WITH MACHINE LEARNING AND COMPUTER VISION. LOOKING FORWARD TO ADVANCING MY ANALYTICAL SKILLS IN A DATA SCIENCE ROLE.
+<h3 align="center"> Fresh Graduate with a variety of technical skills, Experienced with Machine Learning and Computer Vision. Looking forward to advancing my skills in a Data Science role.
  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourhansowar&label=Profile%20views&color=0e75b6&style=flat" alt="nourhansowar" /> </p>
