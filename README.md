@@ -1,14 +1,24 @@
-<h1 align="center">Hi 👋, I'm Norhan Swar Data Scientist</h1>
-<h3 align="center"> Fresh Graduate with a variety of technical skills, Experienced with Machine Learning and Computer Vision. Looking forward to advancing my skills in a Data Science role.
+<h1 align="center">Hi 👋, I'm Norhan Swar </h1>
+<h3 align="center"> Machine Learning Engineer and Data Scientist
  </h3>
+ 
+I'm passionate about using machine learning to solve real-world problems. I have experience in developing and deploying machine learning models for a variety of applications, including computer vision, natural language processing, and predictive analytics.
+
+I'm also an active contributor to the open-source community, and I'm always looking for new and innovative ways to use machine learning to improve the world.
+
+
+I'm always looking for new opportunities to collaborate and learn, so please feel free to reach out to me if you're interested in working together.
+
+- 📫 How to reach me **eng-nourhan.sowar1722@alexu.edu.eg**
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourhansowar&label=Profile%20views&color=0e75b6&style=flat" alt="nourhansowar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nourhansowar" alt="nourhansowar" /></a> </p>
 
-- 📫 How to reach me **eng-nourhan.sowar1722@alexu.edu.eg**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BeBn2byRg5IadirGu5E5olJyP1GT6gWE/view?usp=sharing](https://drive.google.com/drive/folders/13cPD4Nin-_weJsGHZsyc-GPpOwiBFfJc?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
