@@ -12,9 +12,9 @@ I'm always looking for new opportunities to collaborate and learn, so please fee
 - 📫 How to reach me **eng-nourhan.sowar1722@alexu.edu.eg**
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nourhansowar&label=Profile%20views&color=0e75b6&style=flat" alt="nourhansowar" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nourhansowar" alt="nourhansowar" /></a> </p>
 
 
 
